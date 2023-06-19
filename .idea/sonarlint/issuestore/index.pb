@@ -245,3 +245,8 @@ w
 G.idea/sonarlint/issuestore/0/5/054aa2a62396814e048c692c782a340f7e24cf31,6\4\64dcbb7b9b3de7ffdbdca934444437cebc854f79
 w
 G.idea/sonarlint/issuestore/f/c/fc51aad2f1ebe72ffedf49fa3dfea24b513ff6fe,1\2\12b81d07a1dc56e90a3f569cafb37f9bdf9b94fa
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+J
+car_price_prediction.ipynb,b\4\b4b17d25c2cdd5c1f2c2729f364614f467815c1a
